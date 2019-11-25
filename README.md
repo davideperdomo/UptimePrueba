@@ -32,7 +32,7 @@ Ejecución del Back-End desarrollado en Flask. Desde la carpeta .\Flask-BE
 ```sh
 >   python main.py
 ```
-Ejecución del Back-End desarrollado en React. Desde la carpeta .\webClient
+Ejecución del Front-End desarrollado en React. Desde la carpeta .\webClient
 ```sh
 >   npm start
 ```
